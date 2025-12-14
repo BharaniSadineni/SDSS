@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\UE Sose2024\\SDSS_WebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\UE Sose2024\\SDSS_WebApp\\model_utils.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:model_utils.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\UE Sose2024\\SDSS_WebApp\\app.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\UE Sose2024\\SDSS_WebApp\\templates\\home.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:templates\\home.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\UE Sose2024\\SDSS_WebApp\\templates\\scenario.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:templates\\scenario.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\UE Sose2024\\SDSS_WebApp\\templates\\manuual.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:templates\\manuual.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\UE Sose2024\\SDSS_WebApp\\templates\\csv_input.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:templates\\csv_input.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\UE Sose2024\\SDSS_WebApp\\templates\\result.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:templates\\result.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\UE Sose2024\\SDSS_WebApp\\static\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:static\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "app.py",
+              "DocumentMoniker": "E:\\UE Sose2024\\SDSS_WebApp\\app.py",
+              "RelativeDocumentMoniker": "app.py",
+              "ToolTip": "E:\\UE Sose2024\\SDSS_WebApp\\app.py",
+              "RelativeToolTip": "app.py",
+              "ViewState": "AgIAADEAAAAAAAAAAAAiwCUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-12-14T05:51:19.131Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "style.css",
+              "DocumentMoniker": "E:\\UE Sose2024\\SDSS_WebApp\\static\\style.css",
+              "RelativeDocumentMoniker": "static\\style.css",
+              "ToolTip": "E:\\UE Sose2024\\SDSS_WebApp\\static\\style.css",
+              "RelativeToolTip": "static\\style.css",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-12-14T05:53:25.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "result.html",
+              "DocumentMoniker": "E:\\UE Sose2024\\SDSS_WebApp\\templates\\result.html",
+              "RelativeDocumentMoniker": "templates\\result.html",
+              "ToolTip": "E:\\UE Sose2024\\SDSS_WebApp\\templates\\result.html",
+              "RelativeToolTip": "templates\\result.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-12-14T05:53:02.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "csv_input.html",
+              "DocumentMoniker": "E:\\UE Sose2024\\SDSS_WebApp\\templates\\csv_input.html",
+              "RelativeDocumentMoniker": "templates\\csv_input.html",
+              "ToolTip": "E:\\UE Sose2024\\SDSS_WebApp\\templates\\csv_input.html",
+              "RelativeToolTip": "templates\\csv_input.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-12-14T05:52:54.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "manuual.html",
+              "DocumentMoniker": "E:\\UE Sose2024\\SDSS_WebApp\\templates\\manuual.html",
+              "RelativeDocumentMoniker": "templates\\manuual.html",
+              "ToolTip": "E:\\UE Sose2024\\SDSS_WebApp\\templates\\manuual.html",
+              "RelativeToolTip": "templates\\manuual.html",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAUwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-12-14T05:52:41.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "scenario.html",
+              "DocumentMoniker": "E:\\UE Sose2024\\SDSS_WebApp\\templates\\scenario.html",
+              "RelativeDocumentMoniker": "templates\\scenario.html",
+              "ToolTip": "E:\\UE Sose2024\\SDSS_WebApp\\templates\\scenario.html",
+              "RelativeToolTip": "templates\\scenario.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-12-14T05:52:27.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "home.html",
+              "DocumentMoniker": "E:\\UE Sose2024\\SDSS_WebApp\\templates\\home.html",
+              "RelativeDocumentMoniker": "templates\\home.html",
+              "ToolTip": "E:\\UE Sose2024\\SDSS_WebApp\\templates\\home.html",
+              "RelativeToolTip": "templates\\home.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-12-14T05:51:51.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "model_utils.py",
+              "DocumentMoniker": "E:\\UE Sose2024\\SDSS_WebApp\\model_utils.py",
+              "RelativeDocumentMoniker": "model_utils.py",
+              "ToolTip": "E:\\UE Sose2024\\SDSS_WebApp\\model_utils.py",
+              "RelativeToolTip": "model_utils.py",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAAAHYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-12-14T05:51:31.989Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

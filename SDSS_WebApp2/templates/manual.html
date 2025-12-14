@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Manual Input</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+
+    <h2>Manual Input - Scenario {{ scenario }}</h2>
+
+    <form method="post">
+
+        <!-- ================= SCENARIO 1 ================= -->
+        {% if scenario == 1 %}
+        <h4>Galaxy Morphology Inputs</h4>
+
+        <label>u:</label><input name="u" required>
+        <label>g:</label><input name="g" required>
+        <label>r:</label><input name="r" required>
+        <label>i:</label><input name="i" required>
+        <label>z:</label><input name="z" required>
+
+        <label>petroR50_u:</label><input name="petroR50_u" required>
+        <label>petroR50_g:</label><input name="petroR50_g" required>
+        <label>petroR50_r:</label><input name="petroR50_r" required>
+        <label>petroR50_i:</label><input name="petroR50_i" required>
+        <label>petroR50_z:</label><input name="petroR50_z" required>
+
+        <label>expAB_g:</label><input name="expAB_g" required>
+        <label>expAB_r:</label><input name="expAB_r" required>
+        <label>expAB_i:</label><input name="expAB_i" required>
+        {% endif %}
+
+        <!-- ================= SCENARIO 2 ================= -->
+        {% if scenario == 2 %}
+        <h4>Redshift Estimation Inputs</h4>
+
+        <label>u:</label><input name="u" required>
+        <label>g:</label><input name="g" required>
+
+        <label>petroFlux_g:</label><input name="petroFlux_g" required>
+        <label>modelFlux_u:</label><input name="modelFlux_u" required>
+        <label>modelFlux_g:</label><input name="modelFlux_g" required>
+        <label>modelFlux_z:</label><input name="modelFlux_z" required>
+
+        <label>psfMag_g:</label><input name="psfMag_g" required>
+        <label>psfMag_i:</label><input name="psfMag_i" required>
+        <label>psfMag_z:</label><input name="psfMag_z" required>
+        {% endif %}
+
+        <!-- ================= SCENARIO 3 ================= -->
+        {% if scenario == 3 %}
+        <h4>AGN Identification Inputs</h4>
+
+        <label>u:</label><input name="u" required>
+        <label>g:</label><input name="g" required>
+        <label>r:</label><input name="r" required>
+        <label>i:</label><input name="i" required>
+        <label>z:</label><input name="z" required>
+
+        <label>psfMag_u:</label><input name="psfMag_u" required>
+        <label>psfMag_g:</label><input name="psfMag_g" required>
+        <label>psfMag_r:</label><input name="psfMag_r" required>
+        <label>psfMag_i:</label><input name="psfMag_i" required>
+        <label>psfMag_z:</label><input name="psfMag_z" required>
+
+        <label>modelFlux_u:</label><input name="modelFlux_u" required>
+        <label>modelFlux_g:</label><input name="modelFlux_g" required>
+        <label>modelFlux_r:</label><input name="modelFlux_r" required>
+        <label>modelFlux_i:</label><input name="modelFlux_i" required>
+        <label>modelFlux_z:</label><input name="modelFlux_z" required>
+        {% endif %}
+
+        <br><br>
+        <button type="submit">Predict</button>
+
+    </form>
+
+</body>
+</html>

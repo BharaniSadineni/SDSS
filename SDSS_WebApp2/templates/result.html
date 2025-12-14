@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Results</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+
+    <h2>Prediction Results</h2>
+
+    {% if table %}
+    {{ table | safe }}
+    {% else %}
+    <p><strong>Prediction:</strong> {{ result }}</p>
+    {% endif %}
+
+    <a href="/">Go Home</a>
+
+</body>
+</html>
