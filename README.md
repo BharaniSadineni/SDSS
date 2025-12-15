@@ -160,27 +160,6 @@ Successful deployment of trained ML models
 
 Interactive prediction capability through web interface
 
-**Project Structure**
-  SDSS_WebApp/
-  │
-  ├── app.py
-  ├── model_utils.py
-  ├── templates/
-  │   ├── home.html
-  │   ├── scenario.html
-  │   ├── manual.html
-  │   ├── result.html
-  │
-  ├── static/
-  │   └── style.css
-  │
-  ├── models/
-  │   ├── SDSS_S1_USC_LRC.pkl
-  │   ├── SDSS_S2_Reg_XGB.pkl
-  │   ├── SDSS_S3_USC_XGB.pkl
-  │
-  └── README.md
-
 **Conclusion**
 
 This project demonstrates the effective application of machine learning techniques on large-scale astronomical data. By integrating data preprocessing, feature engineering, model optimization, and web deployment, the system provides an end-to-end solution for galaxy analysis using SDSS data.
